@@ -4,8 +4,8 @@ My works related to Ruby on Rails server-side web application framework written 
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Vue.js developers.](#developers)
-4. [Vue.js jobs.](#jobs)
+3. [Ruby on Rails developers.](#developers)
+4. [Ruby on Rails jobs.](#jobs)
 5. [GitHub notes.](#github)
 6. [GitHub repository calculation.](#calculation)
 
