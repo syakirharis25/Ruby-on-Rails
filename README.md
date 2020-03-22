@@ -33,6 +33,7 @@ How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow
 
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
+What is Scaffolding in Ruby on Rails? by RubyGuides : https://www.rubyguides.com/2020/03/rails-scaffolding/ <br />
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
