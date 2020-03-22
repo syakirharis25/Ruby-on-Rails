@@ -25,6 +25,8 @@ Ruby on Rails official website : https://rubyonrails.org/ <br />
 <a name="developers"></a>
 ## 3. Ruby on Rails developers.
 Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing <br />
+Kasey Champion : https://twitter.com/techie4good <br />
+Eduardo Baik : https://github.com/itzedu <br />
 
 <a name="jobs"></a>
 ## 4. Ruby on Rails jobs.
