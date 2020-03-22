@@ -23,6 +23,9 @@ David Heinemeier Hansson extracted Ruby on Rails from his work on the project ma
 Ruby on Rails official website : https://rubyonrails.org/ <br />
 Rails installer : http://railsinstaller.org <br />
 
+**_Ruby on Rails related projects_** <br />
+SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
+
 <a name="developers"></a>
 ## 3. Ruby on Rails developers.
 Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing <br />
