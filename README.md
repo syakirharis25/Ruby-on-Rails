@@ -21,6 +21,7 @@ David Heinemeier Hansson extracted Ruby on Rails from his work on the project ma
 <a name="references"></a>
 ## 2. Official references websites. 
 Ruby on Rails official website : https://rubyonrails.org/ <br />
+Rails installer : http://railsinstaller.org <br />
 
 <a name="developers"></a>
 ## 3. Ruby on Rails developers.
