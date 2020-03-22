@@ -36,7 +36,7 @@ SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
-If there exist any error message related to SQLite, then what you need to do is to open the created folder on your text editor such as Visual Studio Code, then on the left side of the sidebar **[ Mouse Left Click ]** on the text `Gemfile`, press **[ Ctrl ]** + **[ F ]**, type `gem 'sqlite3'`, replace the whole text of `gem 'sqlite3'` with the new text `gem 'sqlite3', '~> 1.3', '< 1.4'`.
+If there exist any error message related to SQLite, then what you need to do is to open the created folder on your text editor such as Visual Studio Code, then on the left side of the sidebar **[ Mouse Left Click ]** on the text `Gemfile`, press **[ Ctrl ]** + **[ F ]**, type `gem 'sqlite3'`, replace the whole text of `gem 'sqlite3'` with the new text `gem 'sqlite3', '~> 1.3', '< 1.4'`, then press **[ Ctrl ]** + **[ S ]** to save the new Gemfile configuration.
 
 Then on your terminal or bash editor,
 ```
