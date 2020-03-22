@@ -4,10 +4,11 @@ My works related to Ruby on Rails server-side web application framework written 
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Ruby on Rails developers.](#developers)
-4. [Ruby on Rails jobs.](#jobs)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+3. [Fixing SQLite error.](#sqlite)
+4. [Ruby on Rails developers.](#developers)
+5. [Ruby on Rails jobs.](#jobs)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -33,14 +34,27 @@ How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
 
+<a name="sqlite"></a>
+## 3. Fixing SQLite error.
+If there exist any error message related to SQLite, then what you need to do is to open the created folder on your text editor such as Visual Studio Code, then on the left side of the sidebar **[ Mouse Left Click ]** on the text `Gemfile`, press **[ Ctrl ]** + **[ F ]**, type `gem 'sqlite3'`, replace the whole text of `gem 'sqlite3'` with the new text `gem 'sqlite3', '~> 1.3', '< 1.4'`.
+
+Then on your terminal or bash editor,
+```
+$ cd working-folder
+$ bundle install
+$ rails server
+```
+
+Wait until Rails server starting, then on your browser task bar, type `localhost:3000` and hit **[ Enter ]** on your keyboard.
+
 <a name="developers"></a>
-## 3. Ruby on Rails developers.
+## 4. Ruby on Rails developers.
 Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing <br />
 Kasey Champion : https://twitter.com/techie4good <br />
 Eduardo Baik : https://github.com/itzedu <br />
 
 <a name="jobs"></a>
-## 4. Ruby on Rails jobs.
+## 5. Ruby on Rails jobs.
 Ruby on Rails Jobs : https://www.rorjobs.com <br />
 Ruby on Rails jobs by Indeed : https://www.indeed.com/q-Ruby-On-Rails-jobs.html <br />
 Ruby on Rails jobs by LinkedIn : https://www.linkedin.com/jobs/ruby-on-rails-jobs/ <br />
@@ -54,7 +68,7 @@ Ruby on Rails jobs by Toptal : https://www.toptal.com/ruby-on-rails/freelance-jo
 Ruby on Rails jobs by Totaljobs : https://www.totaljobs.com/jobs/ruby-on-rails-developer <br />
  
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Ruby-on-Rails.git
@@ -64,7 +78,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 draft
 ```
