@@ -31,9 +31,12 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 Ruby sqlite3 gem installation issue on Windows 10 by Stack Overflow : https://stackoverflow.com/questions/54738267/ruby-sqlite3-gem-installation-issue-on-windows-10 <br />
 How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow.com/questions/56358650/how-to-fix-sqlite3-h-is-missing <br />
 
+**_Ruby on Rails documentation by RubyGuides_** <br />
+What is Scaffolding in Ruby on Rails? by RubyGuides : https://www.rubyguides.com/2020/03/rails-scaffolding/ <br />
+What is Rake in Ruby & How to Use it by RubyGuides : https://www.rubyguides.com/2019/02/ruby-rake/ <br />
+
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
-What is Scaffolding in Ruby on Rails? by RubyGuides : https://www.rubyguides.com/2020/03/rails-scaffolding/ <br />
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
