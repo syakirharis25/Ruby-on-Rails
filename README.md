@@ -28,6 +28,7 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_Ruby on Rails questions and answers by Stack Overflow_** <br />
 Ruby sqlite3 gem installation issue on Windows 10 by Stack Overflow : https://stackoverflow.com/questions/54738267/ruby-sqlite3-gem-installation-issue-on-windows-10 <br />
+How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow.com/questions/56358650/how-to-fix-sqlite3-h-is-missing <br />
 
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
