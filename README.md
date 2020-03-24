@@ -4,14 +4,15 @@ My works related to Ruby on Rails server-side web application framework written 
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Vue.js developers.](#developers)
-4. [Vue.js jobs.](#jobs)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+3. [Fixing SQLite error.](#sqlite)
+4. [Ruby on Rails developers.](#developers)
+5. [Ruby on Rails jobs.](#jobs)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="rails.png" height="150"> 
+<img src="rails.png" height="110"> 
 Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer, HTML, CSS and JavaScript for user interfacing. In addition to MVC, Rails emphasizes the use of other well-known software engineering patterns and paradigms, including convention over configuration (CoC), don't repeat yourself (DRY), and the active record pattern.
 <br /><br />
 Ruby on Rails' emergence in the 2000s greatly influenced web app development, through innovative features such as seamless database table creations, migrations, and scaffolding of views to enable rapid application development. Ruby on Rails' influence on other web frameworks remains apparent today, with many frameworks in other languages borrowing its ideas, including Django in Python, Catalyst in Perl, Laravel and CakePHP in PHP, Phoenix in Elixir, Play in Scala, and Sails.js in Node.js.
@@ -21,13 +22,43 @@ David Heinemeier Hansson extracted Ruby on Rails from his work on the project ma
 <a name="references"></a>
 ## 2. Official references websites. 
 Ruby on Rails official website : https://rubyonrails.org/ <br />
+Rails installer : http://railsinstaller.org <br />
+
+**_Ruby on Rails questions and answers_** <br />
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
+**_Ruby on Rails questions and answers by Stack Overflow_** <br />
+Ruby sqlite3 gem installation issue on Windows 10 by Stack Overflow : https://stackoverflow.com/questions/54738267/ruby-sqlite3-gem-installation-issue-on-windows-10 <br />
+How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow.com/questions/56358650/how-to-fix-sqlite3-h-is-missing <br />
+
+**_Ruby on Rails documentation by RubyGuides_** <br />
+What is Scaffolding in Ruby on Rails? by RubyGuides : https://www.rubyguides.com/2020/03/rails-scaffolding/ <br />
+What is Rake in Ruby & How to Use it by RubyGuides : https://www.rubyguides.com/2019/02/ruby-rake/ <br />
+
+**_Ruby on Rails related projects_** <br />
+SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
+
+<a name="sqlite"></a>
+## 3. Fixing SQLite error.
+If there exist any error message related to SQLite, then what you need to do is to open the created folder on your text editor such as Visual Studio Code, then on the left side of the sidebar **[ Mouse Left Click ]** on the text `Gemfile`, press **[ Ctrl ]** + **[ F ]**, type `gem 'sqlite3'`, replace the whole text of `gem 'sqlite3'` with the new text `gem 'sqlite3', '~> 1.3', '< 1.4'`, then press **[ Ctrl ]** + **[ S ]** to save the new Gemfile configuration.
+
+Then on your terminal or bash editor,
+```
+$ cd working-folder
+$ bundle install
+$ rails server
+```
+
+Wait until Rails server starting, then on your browser task bar, type `localhost:3000` and hit **[ Enter ]** on your keyboard.
 
 <a name="developers"></a>
-## 3. Ruby on Rails developers.
+## 4. Ruby on Rails developers.
 Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing <br />
+Kasey Champion : https://twitter.com/techie4good <br />
+Eduardo Baik : https://github.com/itzedu <br />
 
-<a name="jobsn"></a>
-## 4. Ruby on Rails jobs.
+<a name="jobs"></a>
+## 5. Ruby on Rails jobs.
 Ruby on Rails Jobs : https://www.rorjobs.com <br />
 Ruby on Rails jobs by Indeed : https://www.indeed.com/q-Ruby-On-Rails-jobs.html <br />
 Ruby on Rails jobs by LinkedIn : https://www.linkedin.com/jobs/ruby-on-rails-jobs/ <br />
@@ -41,7 +72,7 @@ Ruby on Rails jobs by Toptal : https://www.toptal.com/ruby-on-rails/freelance-jo
 Ruby on Rails jobs by Totaljobs : https://www.totaljobs.com/jobs/ruby-on-rails-developer <br />
  
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Ruby-on-Rails.git
@@ -51,7 +82,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 draft
 ```
