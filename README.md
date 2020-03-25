@@ -38,6 +38,9 @@ What is Rake in Ruby & How to Use it by RubyGuides : https://www.rubyguides.com/
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
 
+**_Ruby on Rails related articles_** <br />
+Test-Driven Development with RSpec in Rails by Radouane Khiri : https://dev.to/redvanisation/test-driven-development-with-rspec-in-rails-4ek8 <br />
+
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
 If there exist any error message related to SQLite, then what you need to do is to open the created folder on your text editor such as Visual Studio Code, then on the left side of the sidebar **[ Mouse Left Click ]** on the text `Gemfile`, press **[ Ctrl ]** + **[ F ]**, type `gem 'sqlite3'`, replace the whole text of `gem 'sqlite3'` with the new text `gem 'sqlite3', '~> 1.3', '< 1.4'`, then press **[ Ctrl ]** + **[ S ]** to save the new Gemfile configuration.
@@ -56,6 +59,7 @@ Wait until Rails server starting, then on your browser task bar, type `localhost
 Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing <br />
 Kasey Champion : https://twitter.com/techie4good <br />
 Eduardo Baik : https://github.com/itzedu <br />
+Radouane Khiri : https://github.com/Redvanisation, https://twitter.com/redvanisation <br />
 
 <a name="jobs"></a>
 ## 5. Ruby on Rails jobs.
