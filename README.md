@@ -23,6 +23,7 @@ David Heinemeier Hansson extracted Ruby on Rails from his work on the project ma
 ## 2. Official references websites. 
 Ruby on Rails official website : https://rubyonrails.org/ <br />
 Rails installer : http://railsinstaller.org <br />
+Basecamp official website : https://basecamp.com <br />
 
 **_Ruby on Rails questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
@@ -37,6 +38,10 @@ What is Rake in Ruby & How to Use it by RubyGuides : https://www.rubyguides.com/
 
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
+RSpec : https://rspec.info <br />
+
+**_Ruby on Rails related articles_** <br />
+Test-Driven Development with RSpec in Rails by Radouane Khiri : https://dev.to/redvanisation/test-driven-development-with-rspec-in-rails-4ek8 <br />
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
@@ -56,6 +61,7 @@ Wait until Rails server starting, then on your browser task bar, type `localhost
 Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing <br />
 Kasey Champion : https://twitter.com/techie4good <br />
 Eduardo Baik : https://github.com/itzedu <br />
+Radouane Khiri : https://github.com/Redvanisation, https://twitter.com/redvanisation <br />
 
 <a name="jobs"></a>
 ## 5. Ruby on Rails jobs.
