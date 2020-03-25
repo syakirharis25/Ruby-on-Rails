@@ -37,6 +37,7 @@ What is Rake in Ruby & How to Use it by RubyGuides : https://www.rubyguides.com/
 
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
+RSpec : https://rspec.info <br />
 
 **_Ruby on Rails related articles_** <br />
 Test-Driven Development with RSpec in Rails by Radouane Khiri : https://dev.to/redvanisation/test-driven-development-with-rspec-in-rails-4ek8 <br />
