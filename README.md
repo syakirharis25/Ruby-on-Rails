@@ -28,6 +28,9 @@ Basecamp official website : https://basecamp.com <br />
 **_Ruby on Rails questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
+**_Ruby on Rails documentation by guides.rubyonrails.org_** <br />
+Active Record Migrations by guides.rubyonrails.org : https://guides.rubyonrails.org/active_record_migrations.html <br />
+
 **_Ruby on Rails questions and answers by Stack Overflow_** <br />
 Ruby sqlite3 gem installation issue on Windows 10 by Stack Overflow : https://stackoverflow.com/questions/54738267/ruby-sqlite3-gem-installation-issue-on-windows-10 <br />
 How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow.com/questions/56358650/how-to-fix-sqlite3-h-is-missing <br />
