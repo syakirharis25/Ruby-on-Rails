@@ -46,6 +46,7 @@ RSpec : https://rspec.info <br />
 
 **_Ruby on Rails related articles_** <br />
 Test-Driven Development with RSpec in Rails by Radouane Khiri : https://dev.to/redvanisation/test-driven-development-with-rspec-in-rails-4ek8 <br />
+How to use rake db commands in the correct way by Nesha Zoric : https://dev.to/neshaz/how-to-use-rake-db-commands-in-the-correct-way--50o2 <br />
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
@@ -66,6 +67,7 @@ Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, 
 Kasey Champion : https://twitter.com/techie4good <br />
 Eduardo Baik : https://github.com/itzedu <br />
 Radouane Khiri : https://github.com/Redvanisation, https://twitter.com/redvanisation <br />
+Nesha Zoric : https://github.com/nebojsaz, https://twitter.com/neshazo <br />
 
 <a name="jobs"></a>
 ## 5. Ruby on Rails jobs.
