@@ -28,6 +28,15 @@ Basecamp official website : https://basecamp.com <br />
 **_Ruby on Rails questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
+**_Ruby on Rails documentation by guides.rubyonrails.org_** <br />
+Active Record Migrations by guides.rubyonrails.org : https://guides.rubyonrails.org/active_record_migrations.html <br />
+Active Model Basics by guides.rubyonrails.org : https://guides.rubyonrails.org/active_model_basics.html <br />
+
+**_Ruby on Rails documentation by API dock_** <br />
+save by API dock : https://apidock.com/rails/ActiveRecord/Base/save <br />
+all by API dock : https://apidock.com/rails/ActiveRecord/Base/all/class <br />
+create by API dock : https://apidock.com/rails/ActiveRecord/Base/create/class <br />
+
 **_Ruby on Rails questions and answers by Stack Overflow_** <br />
 Ruby sqlite3 gem installation issue on Windows 10 by Stack Overflow : https://stackoverflow.com/questions/54738267/ruby-sqlite3-gem-installation-issue-on-windows-10 <br />
 How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow.com/questions/56358650/how-to-fix-sqlite3-h-is-missing <br />
@@ -39,9 +48,11 @@ What is Rake in Ruby & How to Use it by RubyGuides : https://www.rubyguides.com/
 **_Ruby on Rails related projects_** <br />
 SQLite3/Ruby Interface in GitHub : https://github.com/larskanis/sqlite3-ruby <br />
 RSpec : https://rspec.info <br />
+hirb : https://github.com/cldwalker/hirb <br />
 
 **_Ruby on Rails related articles_** <br />
 Test-Driven Development with RSpec in Rails by Radouane Khiri : https://dev.to/redvanisation/test-driven-development-with-rspec-in-rails-4ek8 <br />
+How to use rake db commands in the correct way by Nesha Zoric : https://dev.to/neshaz/how-to-use-rake-db-commands-in-the-correct-way--50o2 <br />
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
@@ -62,6 +73,7 @@ Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, 
 Kasey Champion : https://twitter.com/techie4good <br />
 Eduardo Baik : https://github.com/itzedu <br />
 Radouane Khiri : https://github.com/Redvanisation, https://twitter.com/redvanisation <br />
+Nesha Zoric : https://github.com/nebojsaz, https://twitter.com/neshazo <br />
 
 <a name="jobs"></a>
 ## 5. Ruby on Rails jobs.
