@@ -5,36 +5,11 @@ My works related to Ruby on Rails server-side web application framework written 
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Fixing SQLite error.](#sqlite)
-4. [Proper way of initializing new Ruby on Rails project.](#proper)
+4. [Proper way of initializing new Ruby on Rails project.](#properinitialize)
 5. [Ruby on Rails developers.](#developers)
 6. [Ruby on Rails jobs.](#jobs)
 7. [GitHub notes.](#github)
 8. [GitHub repository calculation.](#calculation)
-
-<a name="introduction"></a>
-## 4. Proper way of initializing new Ruby on Rails project.
-For Microsoft Windows operating system, first install `Ruby` from https://rubyinstaller.org/downloads/, then check your installed `ruby`, and `gem` version.
-```
-$ ruby -v
-$ gem -v
-$ gem install rails
-$ rails -v
-$ gem install bundler
-$ bundler -v
-```
-
-Then install `Yarn` by **Facebook Engineering**, https://classic.yarnpkg.com/en/docs/install/#windows-stable, after that check your Yarn version.
-```
-$ yarn --version
-```
-[ draft rvm ]
-
-```
-$ rails new your-project-name
-$ ls
-$ cd your-project-name
-$ rails server
-```
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -66,6 +41,7 @@ create by API dock : https://apidock.com/rails/ActiveRecord/Base/create/class <b
 **_Ruby on Rails questions and answers by Stack Overflow_** <br />
 Ruby sqlite3 gem installation issue on Windows 10 by Stack Overflow : https://stackoverflow.com/questions/54738267/ruby-sqlite3-gem-installation-issue-on-windows-10 <br />
 How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow.com/questions/56358650/how-to-fix-sqlite3-h-is-missing <br />
+Implications of SIGUSR2 not implemented, signal based restart unavailable by Stack Overflow : https://stackoverflow.com/questions/42808125/implications-of-sigusr2-not-implemented-signal-based-restart-unavailable/42814125 <br />
 
 **_Ruby on Rails documentation by RubyGuides_** <br />
 What is Scaffolding in Ruby on Rails? by RubyGuides : https://www.rubyguides.com/2020/03/rails-scaffolding/ <br />
@@ -79,6 +55,7 @@ hirb : https://github.com/cldwalker/hirb <br />
 **_Ruby on Rails related articles_** <br />
 Test-Driven Development with RSpec in Rails by Radouane Khiri : https://dev.to/redvanisation/test-driven-development-with-rspec-in-rails-4ek8 <br />
 How to use rake db commands in the correct way by Nesha Zoric : https://dev.to/neshaz/how-to-use-rake-db-commands-in-the-correct-way--50o2 <br />
+SIGUSR2 not implemented #97 by GitHub : https://github.com/railsinstaller/railsinstaller-windows/issues/97 <br />
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
@@ -93,8 +70,31 @@ $ rails server
 
 Wait until Rails server starting, then on your browser address bar, type `localhost:3000` and hit **[ Enter ]** on your keyboard.
 
+<a name="properinitialize"></a>
+## 4. Proper way of initializing new Ruby on Rails project.
+For Microsoft Windows operating system, use the Windows PowerShell and then install `Ruby` from https://rubyinstaller.org/downloads/, then check your installed `ruby` and `gem` version.
+```
+$ ruby -v
+$ gem -v
+$ gem install rails
+$ rails -v
+$ gem install bundler
+$ bundler -v
+```
+
+Then install `Yarn` by **Facebook Engineering**, https://classic.yarnpkg.com/en/docs/install/#windows-stable, after that check your Yarn version.
+```
+$ yarn --version
+$ rails new your-project-name
+$ ls
+$ cd your-project-name
+$ rails server
+```
+
+Open your web browser, and type `localhost:3000` on the web browser address bar, and press **[ Enter ]** to test either Ruby on Rails is working or not on your system.
+
 <a name="developers"></a>
-## 4. Ruby on Rails developers.
+## 5. Ruby on Rails developers.
 Ruby on Rails was created by David Heinemeier Hansson : https://github.com/dhh, https://twitter.com/dhh, https://twitter.com/dhhracing <br />
 Kasey Champion : https://twitter.com/techie4good <br />
 Eduardo Baik : https://github.com/itzedu <br />
@@ -102,7 +102,7 @@ Radouane Khiri : https://github.com/Redvanisation, https://twitter.com/redvanisa
 Nesha Zoric : https://github.com/nebojsaz, https://twitter.com/neshazo <br />
 
 <a name="jobs"></a>
-## 5. Ruby on Rails jobs.
+## 6. Ruby on Rails jobs.
 Ruby on Rails Jobs : https://www.rorjobs.com <br />
 Ruby on Rails jobs by Indeed : https://www.indeed.com/q-Ruby-On-Rails-jobs.html <br />
 Ruby on Rails jobs by LinkedIn : https://www.linkedin.com/jobs/ruby-on-rails-jobs/ <br />
@@ -116,7 +116,7 @@ Ruby on Rails jobs by Toptal : https://www.toptal.com/ruby-on-rails/freelance-jo
 Ruby on Rails jobs by Totaljobs : https://www.totaljobs.com/jobs/ruby-on-rails-developer <br />
  
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Ruby-on-Rails.git
@@ -126,7 +126,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 8. GitHub repository calculation.
 ```
 draft
 ```
