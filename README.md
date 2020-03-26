@@ -5,10 +5,36 @@ My works related to Ruby on Rails server-side web application framework written 
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Fixing SQLite error.](#sqlite)
-4. [Ruby on Rails developers.](#developers)
-5. [Ruby on Rails jobs.](#jobs)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+4. [Proper way of initializing new Ruby on Rails project.](#proper)
+5. [Ruby on Rails developers.](#developers)
+6. [Ruby on Rails jobs.](#jobs)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
+
+<a name="introduction"></a>
+## 4. Proper way of initializing new Ruby on Rails project.
+For Microsoft Windows operating system, first install `Ruby` from https://rubyinstaller.org/downloads/, then check your installed `ruby`, and `gem` version.
+```
+$ ruby -v
+$ gem -v
+$ gem install rails
+$ rails -v
+$ gem install bundler
+$ bundler -v
+```
+
+Then install `Yarn` by **Facebook Engineering**, https://classic.yarnpkg.com/en/docs/install/#windows-stable, after that check your Yarn version.
+```
+$ yarn --version
+```
+[ draft rvm ]
+
+```
+$ rails new your-project-name
+$ ls
+$ cd your-project-name
+$ rails server
+```
 
 <a name="introduction"></a>
 ## 1. Introduction.
