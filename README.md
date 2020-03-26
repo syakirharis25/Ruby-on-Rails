@@ -54,7 +54,7 @@ $ bundle install
 $ rails server
 ```
 
-Wait until Rails server starting, then on your browser task bar, type `localhost:3000` and hit **[ Enter ]** on your keyboard.
+Wait until Rails server starting, then on your browser address bar, type `localhost:3000` and hit **[ Enter ]** on your keyboard.
 
 <a name="developers"></a>
 ## 4. Ruby on Rails developers.
