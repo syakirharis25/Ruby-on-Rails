@@ -42,6 +42,7 @@ create by API dock : https://apidock.com/rails/ActiveRecord/Base/create/class <b
 Ruby sqlite3 gem installation issue on Windows 10 by Stack Overflow : https://stackoverflow.com/questions/54738267/ruby-sqlite3-gem-installation-issue-on-windows-10 <br />
 How to fix “sqlite3.h is missing”? by Stack Overflow : https://stackoverflow.com/questions/56358650/how-to-fix-sqlite3-h-is-missing <br />
 Implications of SIGUSR2 not implemented, signal based restart unavailable by Stack Overflow : https://stackoverflow.com/questions/42808125/implications-of-sigusr2-not-implemented-signal-based-restart-unavailable/42814125 <br />
+What is the meaning of erb? by Stack Overflow : https://stackoverflow.com/questions/4284421/what-is-the-meaning-of-erb <br />
 
 **_Ruby on Rails documentation by RubyGuides_** <br />
 What is Scaffolding in Ruby on Rails? by RubyGuides : https://www.rubyguides.com/2020/03/rails-scaffolding/ <br />
