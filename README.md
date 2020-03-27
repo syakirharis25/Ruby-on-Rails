@@ -32,6 +32,7 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 **_Ruby on Rails documentation by guides.rubyonrails.org_** <br />
 Active Record Migrations by guides.rubyonrails.org : https://guides.rubyonrails.org/active_record_migrations.html <br />
 Active Model Basics by guides.rubyonrails.org : https://guides.rubyonrails.org/active_model_basics.html <br />
+Rails Routing from the Outside In by guides.rubyonrails.org : https://guides.rubyonrails.org/routing.html <br />
 
 **_Ruby on Rails documentation by API dock_** <br />
 save by API dock : https://apidock.com/rails/ActiveRecord/Base/save <br />
@@ -57,6 +58,7 @@ hirb : https://github.com/cldwalker/hirb <br />
 Test-Driven Development with RSpec in Rails by Radouane Khiri : https://dev.to/redvanisation/test-driven-development-with-rspec-in-rails-4ek8 <br />
 How to use rake db commands in the correct way by Nesha Zoric : https://dev.to/neshaz/how-to-use-rake-db-commands-in-the-correct-way--50o2 <br />
 SIGUSR2 not implemented #97 by GitHub : https://github.com/railsinstaller/railsinstaller-windows/issues/97 <br />
+Understanding Rails Routes and RESTful Design by Musa Omondi : https://medium.com/podiihq/understanding-rails-routes-and-restful-design-a192d64cbbb5 <br />
 
 <a name="sqlite"></a>
 ## 3. Fixing SQLite error.
